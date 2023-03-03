@@ -3,7 +3,17 @@
 
 }
 @media only screen and (max-width: 609px) {
-    
+    .nameheader{
+        margin: 1vh;
+        color: yellow;
+        font-size:3vh;
+    }
+    input{
+        width: 3vw;
+    }
+    #messages{
+        height: 5vh;
+    }
   }
 body {
     background: url("./back.jpg");
